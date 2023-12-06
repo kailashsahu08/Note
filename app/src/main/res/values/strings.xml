@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">note</string>
+    <string name="title">ENTER THE TITLE HERE</string>
+    <string name="desc">ENTER THE DESCRIPTION HERE</string>
+    <string name="font_name">NOTE MAKER</string>
+</resources>
